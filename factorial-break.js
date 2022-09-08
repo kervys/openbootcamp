@@ -9,5 +9,4 @@ let result = 1;
        }
     }
 
-
 console.log('el factorial de ' + dato + ' es ' + result);
