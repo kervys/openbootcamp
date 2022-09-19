@@ -1,5 +1,11 @@
 git status
 
+git add nombredelarchivo.js
+
+git status
+
+git commit -m "Nota para el archivo"
+
 git remote add ejercicio_numeros_JS.js https://github.com/kervys/openbootcamp
 
 git push ejercicio_numeros_JS.js
