@@ -1,4 +1,3 @@
-///crea un archivo JS que contenga las siguientes lineas
 //cadena de texto con tu nombre
 let nombre = "Kervys";
 
