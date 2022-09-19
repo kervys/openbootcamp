@@ -1,0 +1,5 @@
+git status
+
+git remote add ejercicio_numeros_JS.js https://github.com/kervys/openbootcamp
+
+git push ejercicio_numeros_JS.js
